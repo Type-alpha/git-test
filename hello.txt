@@ -1,7 +1,2 @@
-hello! 
-<<<<<<< HEAD
-1
-2
-3主线操作
-4
-5 hot-fix
+hello
+GitHub修改1
